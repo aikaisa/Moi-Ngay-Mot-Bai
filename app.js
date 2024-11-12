@@ -12,6 +12,13 @@ let  allMusic = [
         img: "111124",
         src: "music/E111124.mp3",
         idMusic: "E111124"
+    },
+    {
+        name: "Hẹn Một Mai",
+        artist: "Anh",
+        img: "121124",
+        src: "music/A121124.mp3",
+        idMusic: "A121124"
     }
 
 ]
